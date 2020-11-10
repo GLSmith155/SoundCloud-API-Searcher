@@ -1,3 +1,3 @@
 # SoundCloud-API-Searcher
-Allows users to search the SoundCloud API, as well as make a playlist.
+Allows users to search the SoundCloud API and make a playlist in the sidebar.
 
