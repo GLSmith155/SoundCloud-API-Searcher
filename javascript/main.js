@@ -1,4 +1,4 @@
-/* To do: Add auto-play functionality. Improve search bar. */
+/* To do: Add auto-play functionality. Improve search bar. Also a reset. */
 
 
 
